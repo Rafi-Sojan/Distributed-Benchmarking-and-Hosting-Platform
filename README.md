@@ -1,1 +1,1 @@
-#Distributed Benchmarking and Hosting Platform
+Distributed Benchmarking and Hosting Platform
